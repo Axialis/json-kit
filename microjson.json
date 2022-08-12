@@ -1,10 +1,22 @@
-[{
-    "name": "John",
-    "age": 30,
-    "city": "New York"
-},
-{
-    "name": "Jane",
-    "age": 20,
-    "city": "San Francisco"
-}]
+[
+    {
+        "name": "John",
+        "age": 30,
+        "city": "New York"
+    },
+    {
+        "name": "Jane",
+        "age": 25,
+        "city": "San Francisco"
+    },
+        {
+        "name": "Smit",
+        "age": 30,
+        "city": "New York"
+    },
+    {
+        "name": "Sandra",
+        "age": 26,
+        "city": "San Francisco"
+    }
+]
