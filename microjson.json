@@ -7,6 +7,9 @@
       ],
       "calculators": [
         "Impedance"
+      ],
+      "graph": [
+        "Berg"
       ]
     }
 ]
