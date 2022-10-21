@@ -1,22 +1,12 @@
 [
     {
-        "name": "John",
-        "age": 12,
-        "city": "New York"
-    },
-    {
-        "name": "Jane",
-        "age": 16,
-        "city": "San Francisco"
-    },
-        {
-        "name": "Smit",
-        "age": 10,
-        "city": "New York"
-    },
-    {
-        "name": "Sandra",
-        "age": 56,
-        "city": "San Francisco"
+      "amplifiers": [
+        "E class",
+        "F class",
+        "EF2 class"
+      ],
+      "calculators": [
+        "Impedance"
+      ]
     }
 ]
